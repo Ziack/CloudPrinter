@@ -1,0 +1,16 @@
+C:\Users\jgarcia\Desktop\CloudPrintProxy-master\GoogleCloudPrint.Test\bin\Debug\Facture.CloudPrint.Client.Test.exe.config
+C:\Users\jgarcia\Desktop\CloudPrintProxy-master\GoogleCloudPrint.Test\bin\Debug\Facture.CloudPrint.Client.Test.exe
+C:\Users\jgarcia\Desktop\CloudPrintProxy-master\GoogleCloudPrint.Test\bin\Debug\Facture.CloudPrint.Client.Test.pdb
+C:\Users\jgarcia\Desktop\CloudPrintProxy-master\GoogleCloudPrint.Test\bin\Debug\Facture.CloudPrint.Client.dll
+C:\Users\jgarcia\Desktop\CloudPrintProxy-master\GoogleCloudPrint.Test\bin\Debug\Facture.CloudPrint.Client.pdb
+C:\Users\jgarcia\Desktop\CloudPrintProxy-master\GoogleCloudPrint.Test\obj\Debug\Facture.CloudPrint.Client.Test.csprojResolveAssemblyReference.cache
+C:\Users\jgarcia\Desktop\CloudPrintProxy-master\GoogleCloudPrint.Test\obj\Debug\Facture.CloudPrint.Client.Test.exe
+C:\Users\jgarcia\Desktop\CloudPrintProxy-master\GoogleCloudPrint.Test\obj\Debug\Facture.CloudPrint.Client.Test.pdb
+C:\Users\jgarcia\Desktop\CloudPrintProxy-master\Facture.CloudPrint.Client.Test\bin\Debug\Facture.CloudPrint.Client.Test.exe.config
+C:\Users\jgarcia\Desktop\CloudPrintProxy-master\Facture.CloudPrint.Client.Test\bin\Debug\Facture.CloudPrint.Client.Test.exe
+C:\Users\jgarcia\Desktop\CloudPrintProxy-master\Facture.CloudPrint.Client.Test\bin\Debug\Facture.CloudPrint.Client.Test.pdb
+C:\Users\jgarcia\Desktop\CloudPrintProxy-master\Facture.CloudPrint.Client.Test\bin\Debug\Facture.CloudPrint.Client.dll
+C:\Users\jgarcia\Desktop\CloudPrintProxy-master\Facture.CloudPrint.Client.Test\bin\Debug\Facture.CloudPrint.Client.pdb
+C:\Users\jgarcia\Desktop\CloudPrintProxy-master\Facture.CloudPrint.Client.Test\obj\Debug\Facture.CloudPrint.Client.Test.csprojResolveAssemblyReference.cache
+C:\Users\jgarcia\Desktop\CloudPrintProxy-master\Facture.CloudPrint.Client.Test\obj\Debug\Facture.CloudPrint.Client.Test.exe
+C:\Users\jgarcia\Desktop\CloudPrintProxy-master\Facture.CloudPrint.Client.Test\obj\Debug\Facture.CloudPrint.Client.Test.pdb

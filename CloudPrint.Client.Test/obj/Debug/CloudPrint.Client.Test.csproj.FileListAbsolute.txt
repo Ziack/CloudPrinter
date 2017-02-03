@@ -1,0 +1,8 @@
+C:\Users\jgarcia\Documents\Github\CloudPrinter\CloudPrint.Client.Test\obj\Debug\CloudPrint.Client.Test.csprojResolveAssemblyReference.cache
+C:\Users\jgarcia\Documents\Github\CloudPrinter\CloudPrint.Client.Test\bin\Debug\CloudPrint.Client.Test.exe.config
+C:\Users\jgarcia\Documents\Github\CloudPrinter\CloudPrint.Client.Test\bin\Debug\CloudPrint.Client.Test.exe
+C:\Users\jgarcia\Documents\Github\CloudPrinter\CloudPrint.Client.Test\bin\Debug\CloudPrint.Client.Test.pdb
+C:\Users\jgarcia\Documents\Github\CloudPrinter\CloudPrint.Client.Test\bin\Debug\CloudPrint.Client.dll
+C:\Users\jgarcia\Documents\Github\CloudPrinter\CloudPrint.Client.Test\bin\Debug\CloudPrint.Client.pdb
+C:\Users\jgarcia\Documents\Github\CloudPrinter\CloudPrint.Client.Test\obj\Debug\CloudPrint.Client.Test.exe
+C:\Users\jgarcia\Documents\Github\CloudPrinter\CloudPrint.Client.Test\obj\Debug\CloudPrint.Client.Test.pdb

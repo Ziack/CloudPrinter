@@ -1,0 +1,8 @@
+C:\Users\jgarcia\Desktop\CloudPrintProxy-master\GoogleCloudPrint.Test\bin\Release\GoogleCloudPrint.Test.exe.config
+C:\Users\jgarcia\Desktop\CloudPrintProxy-master\GoogleCloudPrint.Test\bin\Release\GoogleCloudPrint.Test.exe
+C:\Users\jgarcia\Desktop\CloudPrintProxy-master\GoogleCloudPrint.Test\bin\Release\GoogleCloudPrint.Test.pdb
+C:\Users\jgarcia\Desktop\CloudPrintProxy-master\GoogleCloudPrint.Test\bin\Release\GoogleCloudPrint.dll
+C:\Users\jgarcia\Desktop\CloudPrintProxy-master\GoogleCloudPrint.Test\bin\Release\GoogleCloudPrint.pdb
+C:\Users\jgarcia\Desktop\CloudPrintProxy-master\GoogleCloudPrint.Test\obj\Release\GoogleCloudPrint.Test.csprojResolveAssemblyReference.cache
+C:\Users\jgarcia\Desktop\CloudPrintProxy-master\GoogleCloudPrint.Test\obj\Release\GoogleCloudPrint.Test.exe
+C:\Users\jgarcia\Desktop\CloudPrintProxy-master\GoogleCloudPrint.Test\obj\Release\GoogleCloudPrint.Test.pdb

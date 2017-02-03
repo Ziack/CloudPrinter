@@ -1,0 +1,8 @@
+C:\TFS1\Colab\CloudPrint\1Dev\Facture.CloudPrint.Client.Test\bin\Release\Facture.CloudPrint.Client.Test.exe.config
+C:\TFS1\Colab\CloudPrint\1Dev\Facture.CloudPrint.Client.Test\bin\Release\Facture.CloudPrint.Client.Test.exe
+C:\TFS1\Colab\CloudPrint\1Dev\Facture.CloudPrint.Client.Test\bin\Release\Facture.CloudPrint.Client.Test.pdb
+C:\TFS1\Colab\CloudPrint\1Dev\Facture.CloudPrint.Client.Test\bin\Release\Facture.CloudPrint.Client.dll
+C:\TFS1\Colab\CloudPrint\1Dev\Facture.CloudPrint.Client.Test\bin\Release\Facture.CloudPrint.Client.pdb
+C:\TFS1\Colab\CloudPrint\1Dev\Facture.CloudPrint.Client.Test\obj\Release\Facture.CloudPrint.Client.Test.csprojResolveAssemblyReference.cache
+C:\TFS1\Colab\CloudPrint\1Dev\Facture.CloudPrint.Client.Test\obj\Release\Facture.CloudPrint.Client.Test.exe
+C:\TFS1\Colab\CloudPrint\1Dev\Facture.CloudPrint.Client.Test\obj\Release\Facture.CloudPrint.Client.Test.pdb
