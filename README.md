@@ -1,4 +1,4 @@
-# GoogleCloudPrint C&#35 Gateway
+# GoogleCloudPrint C&#35; Gateway
 
 ## Usage
 
